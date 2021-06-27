@@ -3,7 +3,23 @@
 ## Получаем и выводим весь список контактов в виде таблицы (console.table)
 > node index.js --action list 
 > 
-<a href="https://prnt.sc/1755akq"><img src="https://prnt.sc/1755akq" alt="1" border="0"></a>
+<a href="https://ibb.co/z6f10Nd"><img src="https://i.ibb.co/NTYXH7R/action-list.png" alt="action-list" border="0" /></a>
+
+
+## Получаем контакт по id
+> node index.js --action get --id 5
+> 
+<a href="https://ibb.co/7N7K6M8"><img src="https://i.ibb.co/cXzQ7fM/action-get.png" alt="action-get" border="0" /></a>
+
+## Добавляем контакт
+> node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
+> 
+<a href="https://ibb.co/frL68ZT"><img src="https://i.ibb.co/6DL9vGq/action-add.png" alt="action-add" border="0" /></a>
+
+## Удаляем контакт
+> node index.js --action remove --id=3
+> 
+<a href="https://ibb.co/Yf8x5Mw"><img src="https://i.ibb.co/1RKkC5j/action-remove.png" alt="action-remove" border="0" /></a>
 
 ## Шаг 1
 
