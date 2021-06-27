@@ -1,4 +1,4 @@
-# Домашнее задание 1
+# Скриншоты выполненых заданий
 
 ## Получаем и выводим весь список контактов в виде таблицы (console.table)
 > node index.js --action list 
@@ -20,6 +20,8 @@
 > node index.js --action remove --id=3
 > 
 <a href="https://ibb.co/Yf8x5Mw"><img src="https://i.ibb.co/1RKkC5j/action-remove.png" alt="action-remove" border="0" /></a>
+
+# Домашнее задание 1
 
 ## Шаг 1
 
