@@ -1,5 +1,10 @@
 # Домашнее задание 1
 
+## Получаем и выводим весь список контактов в виде таблицы (console.table)
+> node index.js --action list 
+> 
+<a href="https://prnt.sc/1755akq"><img src="https://prnt.sc/1755akq" alt="1" border="0"></a>
+
 ## Шаг 1
 
 - Инициализируй npm в проекте
